@@ -1,0 +1,14 @@
+PROGRAMA prueba1 
+VAR 
+bool a,b,c;
+num d,e,f;
+FINVAR 
+COMIENZO
+d:=1;
+e:=1;
+f:=d - 3;
+a:=d = e;
+b:=¬a;
+d:=e + 5;
+c:=d = f;
+FIN.
